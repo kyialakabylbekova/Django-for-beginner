@@ -10,3 +10,4 @@ class SimpleTests(SimpleTestCase):
         self.assertEqual(responce.status_code, 200)
 
 
+
